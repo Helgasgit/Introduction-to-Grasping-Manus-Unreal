@@ -1,7 +1,7 @@
 # TUM-Introduction-to-Grasping
 
 **HW/SW**
-1. Manus Prime X Haptic VR
+1. Manus Prime X Haptic VR (*the right hand*)
 2. Unreal Engine 4.25.4
 
 **Installation**
