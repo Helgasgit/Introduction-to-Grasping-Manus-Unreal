@@ -34,7 +34,7 @@ or:
 
 
 **Link of Presentation & Demo Videos**
-https://gitlab.lrz.de/00000000014ABD2B/presentation/-/project_members
+https://gitlab.lrz.de/00000000014ABD2B/presentation
 
 
 
